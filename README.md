@@ -3,6 +3,8 @@
 
 Kotlin (Multiplatform) logging facade for idiomatic logging in Kotlin with appenders for all supported KMP platforms.
 
+Has been renamed to Kotlin Logging Facade (klf), please go to [https://github.com/codinux-gmbh/klf](https://github.com/codinux-gmbh/klf) for up to date code.
+
 ## Setup
 
 ### Gradle
